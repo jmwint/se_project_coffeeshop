@@ -1,6 +1,6 @@
 .reservation {
     padding: 100px 0 120px;
-    background: #D9E7FF center / cover no-repeat url(../images/background_reservation.svg)
+    background: #D9E7FF center / cover no-repeat url(../images/background_reservation.svg);
 }
 
 .reservation__title {
