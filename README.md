@@ -12,5 +12,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - CSS animation and transform
 
 ## Plan on improving the project
-
-Add your ideas here :)
+![alt text](./README.md.images/Screenshot%202024-06-04%20184055.png)
+![alt text](./README.md.images/Screenshot%202024-06-04%20184038.png)
+![alt text](./README.md.images/Screenshot%202024-06-04%20184009.png)
+![alt text](README.md.images/Screenshot%202024-06-04%20183940.png)
+![alt text](./README.md.images/Screenshot%202024-06-04%20183841.png)
