@@ -6,6 +6,8 @@
     display: flex;
     flex-direction: column;
     background: center / cover no-repeat url(../images/background_header.svg);
+    position: relative;
+    box-sizing: border-box;
 }
 
 .header__title {
@@ -44,6 +46,7 @@
     display: flex;
     justify-content: space-between;
     margin-top: auto;
+    align-items: end;
 }
 
 .header__paragraph {

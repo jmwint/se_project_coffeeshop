@@ -5,7 +5,7 @@
   }
   
   .footer__content {
-    margin: 40px 80px 108px 80px;
+    margin-bottom: 108px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -31,6 +31,8 @@
   .footer__social-link {
     color: #fff;
     text-decoration: none;
+    display: flex;
+    align-items: center;
   }
 
   .footer__social-link:hover {
@@ -49,5 +51,5 @@
   
   .footer__copyright {
     color: #fff;
-    margin: 0 auto 40px 80px;
+    margin: 0 auto 40px;
   }
